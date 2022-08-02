@@ -9,7 +9,7 @@ print("Hello World!")
 proposal_file = open("proposal.txt", "r")
 
 for proposal in proposal_file.readlines():
-    print(proposal)
+print(proposal)
 
 I'm Augusto Sasso, founder of the Patag startup:
 
